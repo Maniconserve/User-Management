@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\user\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD1071E-80B9-44B8-B79B-3B79C3CBFF47}|Solution Items{BFD1071E-80B9-44B8-B79B-3B79C3CBFF47}|D:\\user\\Project1\\TextFile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BFD1071E-80B9-44B8-B79B-3B79C3CBFF47}|Solution Items{BFD1071E-80B9-44B8-B79B-3B79C3CBFF47}|solutionrelative:TextFile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TextFile1.txt",
+              "DocumentMoniker": "D:\\user\\Project1\\TextFile1.txt",
+              "RelativeDocumentMoniker": "TextFile1.txt",
+              "ToolTip": "D:\\user\\Project1\\TextFile1.txt",
+              "RelativeToolTip": "TextFile1.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-07T03:03:46.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
